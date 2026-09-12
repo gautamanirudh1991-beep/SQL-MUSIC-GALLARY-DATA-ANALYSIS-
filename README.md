@@ -1,4 +1,4 @@
-# SQL-MUSIC-GALLARY-DATA-ANALYSIS
-SQL project to analyze online music gallery
+# SQL-MUSIC-GALLERY-DATA-ANALYSIS
+SQL project to analyze an online music gallery
 
 
