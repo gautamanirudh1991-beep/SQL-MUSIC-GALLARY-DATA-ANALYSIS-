@@ -14,13 +14,13 @@ genre	        Music genre reference table
 🛠️ Tools & Concepts Used
 * SQL — joins, aggregate functions, subqueries, filtering, sorting
 * Core concepts demonstrated:
-    GROUP BY / ORDER BY / LIMIT for ranking and top-N analysis
+     GROUP BY / ORDER BY / LIMIT for ranking and top-N analysis
   
-    JOIN across multiple related tables (customer → invoice → invoice_line → track → genre)
+     JOIN across multiple related tables (customer → invoice → invoice_line → track → genre)
   
-    Subqueries with IN for multi-table filtering
+     Subqueries with IN for multi-table filtering
   
-    Aggregate functions (SUM, COUNT) for revenue and volume analysis
+     Aggregate functions (SUM, COUNT) for revenue and volume analysis
   
-    DISTINCT and pattern matching (LIKE) for clean, targeted result sets
+     DISTINCT and pattern matching (LIKE) for clean, targeted result sets
 
